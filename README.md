@@ -1,8 +1,12 @@
 # Martin Robots
 Application to determines each sequence of robot positions and reports the final position of the robot.
 
-# Languages:
+# Languages
 - Java
+
+# Required
+- Maven
+- Spring Boot
 
 # Run the Server
 ```sh
